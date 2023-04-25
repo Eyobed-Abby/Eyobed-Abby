@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Winner Abula
-- 👀 I’m interested in Software Developement, Algorithms and problem solving
+- 👀 I’m interested in AI, Machine Learning, Software Developement, Algorithms and problem solving
 - 🌱 I’m currently learning BSC in Computer Science
 - 📫 You can reach me out using my email: winnerabula55@gmail.com
 
