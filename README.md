@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science Student
 ---------------------------------------------
 
-I am a computer science student, who is interested in doing AI related researches. I am also mobile app developer using react native.
+I am a computer science student, who is interested in doing data Science, Data Analysis and AI related researches. I am also mobile app developer using react native.
 
 * 🌍  I'm based in Abu Dhabi
 * ✉️  You can contact me at [winnerabula55@gmail.com](mailto:winnerabula55@gmail.com)
